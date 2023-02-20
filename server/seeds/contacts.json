@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Claudio Pagan",
+        "email_address": "fake1@gmail.com",
+        "content": "Hello, World!",
+        "createdAt": "02-14-2023"
+    },
+    {
+        "name": "John",
+        "email_address": "fake2@gmail.com",
+        "content": "Hello, Claudio!",
+        "createdAt": "02-15-2023"
+    },
+    {
+        "name": "Kelly",
+        "email_address": "fake3@gmail.com",
+        "content": "Hello, How are you?",
+        "createdAt": "02-16-2023"
+    }
+]
